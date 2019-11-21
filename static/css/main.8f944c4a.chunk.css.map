@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAGA,oBACE,eAAgB,CAChB,eAAgB,CAChB,qBAAsB,CACtB,aACF,CAEA,cACE,WACF","file":"main.8f944c4a.chunk.css","sourcesContent":["/**\n *  Set size for graph container \n */\n#litGraph-container {\n  min-width: 320px;\n  max-width: 800px;\n  background-color: #eef;\n  margin: 0 auto;\n}\n\n#citing-paper {\n  width: 376px;\n}"]}
