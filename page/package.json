@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://chrisfriesen.github.io/page/",
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "highcharts": "^7.2.1",
     "highcharts-react-official": "^2.2.2",
     "react": "^16.12.0",
